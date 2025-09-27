@@ -1,5 +1,6 @@
 <!-- Banner / Typing Effect -->
 <!-- Name stays constant (typed once, no loop) -->
+<!-- Name stays constant (typed once, no loop) -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?size=28&duration=4000&pause=2000&color=36BCF7&center=true&vCenter=true&width=1000&repeat=false&lines=Hi+%F0%9F%91%8B%2C+I'm+Arman+Dhillon)](https://github.com/DenverCoder1/readme-typing-svg)
 
 <!-- Rotating roles -->
