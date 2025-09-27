@@ -1,20 +1,9 @@
 <!-- Banner / Typing Effect -->
-<!-- Banner / Typing Effect -->
-<!-- Typing Banner -->
 <!-- Name stays constant (typed once, no loop) -->
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?size=28&duration=4000&pause=2000&color=36BCF7&center=true&vCenter=true&width=1000&repeat=false&lines=Hi+%F0%9F%91%8B%2C+I'm+Arman+Dhillon)](https://github.com/DenverCoder1/readme-typing-svg)
 
-  <!-- Left: Name (constant, no loop) -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?size=28&duration=4000&pause=2000&color=36BCF7&center=true&vCenter=true&width=480&repeat=false&lines=Hi+%F0%9F%91%8B%2C+I'm+Arman+Dhillon" alt="Typing SVG: Arman Dhillon" />
-  </a>
-
-  <!-- Right: Rotating roles -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?size=28&duration=4000&pause=2000&color=36BCF7&center=true&vCenter=true&width=520&lines=Data+Science+%2B+ML+Enthusiast;Ex-Data+Science+Intern+at+Delhivery;NLP+%7C+Computer+Vision;Always+learning+%26+shipping!" alt="Typing SVG: Roles" />
-  </a>
-
-</div>
+<!-- Rotating roles -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?size=28&duration=4000&pause=2000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Data+Science+%2B+ML+Enthusiast;Ex-Data+Science+Intern+at+Delhivery;NLP+%7C+Computer+Vision;Always+learning+%26+shipping!)](https://github.com/DenverCoder1/readme-typing-svg)
 
 
 ---
