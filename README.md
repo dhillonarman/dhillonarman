@@ -1,5 +1,6 @@
 <!-- Banner / Typing Effect -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?size=28&duration=4000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Arman+Dhillon;Data+Science+%2B+ML+Engineer;Ex+Delhivery+%E2%80%94+Geospatial+%26+Logistics+Analytics;NLP+%7C+Computer+Vision;Always+learning+%26+shipping!)](https://github.com/DenverCoder1/readme-typing-svg)
+<!-- Banner / Typing Effect -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Arman+Dhillon;Data+Scientist+%7C+Data+Science+%26+ML+Enthusiast;Ex-Data+Science+Intern+at+Delhivery;Full+Stack+Learner;Always+learning+new+things!)](https://git.io/typing-svg)
 
 ---
 
