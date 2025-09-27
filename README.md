@@ -35,7 +35,7 @@
 
 ## 🚀 Now Building
 - **AI Railway Track Monitoring (YOLOv8 + real-time alerts)**  
-  Drone/FPV video → detection → live alerting dashboard. *Code is being cleaned for public release; README + demo coming soon.*
+  Drone/FPV video → detection → live alerting dashboard. 
 
 ---
 
@@ -51,7 +51,6 @@
 - 🛣️ **Pavement Distress (CV)** — detection/segmentation pipeline; dataset curation & evaluation  
   <sub>*practical CV problem with clear metrics*</sub>
 
-> *Note:* I’m intentionally **not featuring JobbyD** here. It’s an experiment; I’ll keep improving it off-spotlight.
 
 ---
 
