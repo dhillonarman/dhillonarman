@@ -1,9 +1,19 @@
 <!-- Banner / Typing Effect -->
 <!-- Banner / Typing Effect -->
 <!-- Typing Banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?size=32&duration=4000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Arman+Dhillon)](https://github.com/DenverCoder1/readme-typing-svg)
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?size=28&duration=4000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Data+Science+%26+ML+Enthusiast;Ex-Data+Science+Intern+at+Delhivery;NLP+%7C+Computer+Vision;Always+learning+%26+shipping!)](https://github.com/DenverCoder1/readme-typing-svg)
+  <!-- Left: Name (no loop) -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?size=28&duration=4000&color=36BCF7&center=true&vCenter=true&width=480&repeat=false&lines=Arman+Dhillon" alt="Typing SVG: Arman Dhillon" />
+  </a>
+
+  <!-- Right: Rotating roles -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?size=28&duration=4000&color=36BCF7&center=true&vCenter=true&width=520&lines=Data+Science+%2B+ML+Enthusiast;Ex-Data+Science+Intern+at+Delhivery;NLP+%7C+Computer+Vision;Always+learning+%26+shipping!" alt="Typing SVG: Roles" />
+  </a>
+
+</div>
 
 
 ---
